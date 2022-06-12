@@ -1,0 +1,9 @@
+#box {
+  border-style: solid;
+  height: 100px;
+  width: 200px;
+}
+
+div > p {
+  color: red;
+}
